@@ -3,7 +3,7 @@ author: Jon Tennant
 output_dir: docs
 output:
   html_document:
-    theme: flatly
+    theme: leap-day
 navbar:
   title: Foundations for Open Scholarship Strategy Development
 
